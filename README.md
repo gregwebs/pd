@@ -5,6 +5,7 @@
 [![CircleCI Build Status](https://circleci.com/gh/pingcap/pd.svg?style=shield)](https://circleci.com/gh/pingcap/pd)
 [![Go Report Card](https://goreportcard.com/badge/github.com/pingcap/pd)](https://goreportcard.com/report/github.com/pingcap/pd)
 [![Coverage Status](https://coveralls.io/repos/github/pingcap/pd/badge.svg?branch=master)](https://coveralls.io/github/pingcap/pd?branch=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgregwebs%2Fpd.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgregwebs%2Fpd?ref=badge_shield)
 
 PD is the abbreviation for Placement Driver. It is used to manage and schedule the [TiKV](https://github.com/tikv/tikv) cluster. 
 
@@ -111,3 +112,7 @@ how to set up the cluster and run them.
 
 You can also use [Docker](https://github.com/pingcap/docs/blob/master/op-guide/docker-deployment.md) to 
 run the cluster.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgregwebs%2Fpd.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgregwebs%2Fpd?ref=badge_large)
